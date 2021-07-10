@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /login/
+Disallow: /logout/
+Disallow: /signup/
+Crawl-delay: 175
+Clean-param: idWin *
+Host: https://sudoku-free.cn
